@@ -6,3 +6,4 @@ Collection of FCC assignments
 |A portfolio | https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage | https://github.com/ojongerius/fcc-portfolio | http://www.0tt0.net/fcc-portfolio/ |
 |Silly BOFH style random quotes | https://www.freecodecamp.org/challenges/build-a-random-quote-machine | https://github.com/ojongerius/fcc-random-quote-machine | http://www.0tt0.net/fcc-random-quote-machine |
 |Show the local weather | https://www.freecodecamp.org/challenges/show-the-local-weather | https://github.com/ojongerius/fcc-show-the-local-weather | https://www.0tt0.net/fcc-show-the-local-weather|
+|Build a Wikipedia viewer | https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer | https://github.com/ojongerius/fcc-build-a-wikipedia-viewer | https://www.0tt0.net/fcc-build-a-wikipedia-viewer
